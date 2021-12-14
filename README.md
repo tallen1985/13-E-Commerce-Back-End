@@ -38,4 +38,11 @@
   [Refer to Github Profile: tallen1985](http://www.github.com/tallen1985)
   
   Any additional questions, reach me at my email jake.allen@me.com
+
+  ## Performance / Links
+  [Performance Link](https://watch.screencastify.com/v/WfPoKfWJtRiI2LsLfQyc)
+  
+  [Github Repo Link](https://github.com/tallen1985/13-E-Commerce-Back-End)
+
+  ![screenshot](./screenshot.jpg)
   
